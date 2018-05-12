@@ -30,6 +30,8 @@ creator:
     gutenberg_agent_id: '6366'
     url: http://www.gutenberg.org/2009/agents/6366
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25052#Valittuja-runoja-R-ggler---Paschaser-
 gutenberg_issued: '2008-04-11'
 gutenberg_type: Text
 identifiers:
