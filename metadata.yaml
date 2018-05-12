@@ -1,0 +1,46 @@
+_repo: Valittuja-runoja-R-ggler---Paschaser-_25052
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Weijola, Yrjö
+    birthdate: 1875
+    deathdate: 1930
+    gutenberg_agent_id: '28373'
+    url: http://www.gutenberg.org/2009/agents/28373
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fröding, Gustaf
+    aliases:
+    - Fröding, Gustav
+    - Froding, Gustav
+    - Gustaf Fröding
+    - Froding, Gustaf
+    birthdate: 1860
+    deathdate: 1911
+    gutenberg_agent_id: '28374'
+    url: http://www.gutenberg.org/2009/agents/28374
+    wikipedia: http://en.wikipedia.org/wiki/Gustaf_Fr%C3%B6ding
+  editor:
+    agent_name: Leino, Kasimir
+    birthdate: 1866
+    deathdate: 1919
+    gutenberg_agent_id: '6366'
+    url: http://www.gutenberg.org/2009/agents/6366
+description: ''
+gutenberg_issued: '2008-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25052'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish poetry -- Translations into Finnish'
+title: "Valittuja runoja\r\nKokoelmista 'Guitarr och Dragharmonika', 'Nya Dikter'\
+  \ ja 'Räggler å Paschaser'"
+url: http://www.gutenberg.org/ebooks/25052
